@@ -1,0 +1,10 @@
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\bin\Debug\cpp_rand_generator.exe.config
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\bin\Debug\cpp_rand_generator.exe
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\bin\Debug\cpp_rand_generator.pdb
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\obj\Debug\cpp_rand_generator.csprojAssemblyReference.cache
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\obj\Debug\cpp_rand_generator.Form1.resources
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\obj\Debug\cpp_rand_generator.Properties.Resources.resources
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\obj\Debug\cpp_rand_generator.csproj.GenerateResource.cache
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\obj\Debug\cpp_rand_generator.csproj.CoreCompileInputs.cache
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\obj\Debug\cpp_rand_generator.exe
+c:\users\vevepc\source\repos\cpp_rand_generator\cpp_rand_generator\obj\Debug\cpp_rand_generator.pdb
